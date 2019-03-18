@@ -23,6 +23,13 @@
                 Content="SHOW"
                 Click="btnShow_Click1">
             </Button>
+            <Button
+                x:Name="btnshow2"
+                Height="35"
+                Width="100"
+                Content="SHOW"
+                Click="btnShow_Click2">
+            </Button>
         </StackPanel>
     </Grid>
 </Window>
