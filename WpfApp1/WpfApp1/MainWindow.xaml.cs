@@ -24,5 +24,10 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void btnShow_Click3(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("ok", "ok")
+        }
     }
 }
