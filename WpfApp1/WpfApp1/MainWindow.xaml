@@ -10,11 +10,11 @@
         <StackPanel
             Orientation="Vertical">
             <Button
-                x:Name="btnshow0"
+                x:Name="btnshow01"
                 Height="35"
                 Width="100"
                 Content="SHOW"
-                Click="btnShow_Click0">
+                Click="btnShow_Click01">
             </Button>
             <Button
                 x:Name="btnshow1"
